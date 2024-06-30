@@ -5,7 +5,8 @@
 ###
 
 <br clear="both">
-
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vandanapndt/)
 <div align="right">
   <a href="www.linkedin.com/in/vandanapndt" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="15" alt="linkedin logo"  />
