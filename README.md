@@ -27,6 +27,7 @@
 </div>
 
 ###
+<br clear="both">
 <h2 align="left">LinkedIn Link:</h2>
 <a href="url">https://www.linkedin.com/in/vandanapndt/</a>
 
