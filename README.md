@@ -1,10 +1,6 @@
-<br clear="both">
-
 <p align="left">Hey there👋</p>
 
 ###
-
-<br clear="both">
 
 <p align="left">👩‍💻  I am currently working as Infrastructure Engineer.<br><br>🔭 I’m currently preparing for CKA certification.<br><br>📝 Do check my linked post I keep posting articles related to DevOps</p>
 
