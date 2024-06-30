@@ -26,6 +26,7 @@
   <img src="https://skillicons.dev/icons?i=aws" height="70" alt="amazonwebservices logo"  />
 </div>
 
+###
+<h2 align="left">LinkedIn Link:</h2>
 <a href="url">https://www.linkedin.com/in/vandanapndt/</a>
 
-###
