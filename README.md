@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👩‍💻  I am currently working as Infrastructure Engineer.<br><br>🔭 I’m currently preparing for CKA certification.<br><br>📝 Do check my linked post I keep posting articles related to DevOps</p>
+<p align="left">👩‍💻  I am currently working as Infrastructure Engineer.<br><br>🔭 I’m CKA certified.<br><br>📝 Do check my linked post I keep posting articles related to DevOps</p>
 
 ###
 
